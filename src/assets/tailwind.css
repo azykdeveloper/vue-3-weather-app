@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-weather-primary: #00668A;
+  --color-weather-secondary: #004E71;
+  
+  --font-roboto: Roboto, sans-serif;
+
+}
+
+@utility container {
+  padding-inline: 2rem;
+  margin-inline: auto;
+  @variant sm {
+    max-width: 640px;
+  }
+  @variant md {
+    max-width: 768px;
+  } 
+}
