@@ -1,14 +1,12 @@
-# vue-3-weather-app
+![App Screenshot](https://i.postimg.cc/XvnwhFdk/Screenshot-2025-05-29-162023.png)
+
+# Weather App
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## Demo
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+https://vue-3-weather-ap.netlify.app/
 
 ## Project Setup
 
