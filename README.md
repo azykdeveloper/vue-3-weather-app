@@ -1,6 +1,6 @@
 ![App Screenshot](https://i.postimg.cc/XvnwhFdk/Screenshot-2025-05-29-162023.png)
 
-# Weather App
+# Weather App [demo](https://vue-3-weather-ap.netlify.app/)
 
 A lightweight and responsive weather app built with Vue 3 and the Composition API.  
 It fetches real-time weather data using an external API and displays it in a clean UI.
