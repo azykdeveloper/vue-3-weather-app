@@ -2,26 +2,24 @@
 
 # Weather App
 
-This template should help get you started developing with Vue 3 in Vite.
+A lightweight and responsive weather app built with Vue 3 and the Composition API.  
+It fetches real-time weather data using an external API and displays it in a clean UI.
 
-## Demo
+## 🔧 Technologies
 
-https://vue-3-weather-ap.netlify.app/
+- Vue 3 + Vite
+- Composition API
+- Tailwind CSS
+- OpenWeatherMap API
+- JavaScript (ES6)
 
-## Project Setup
+## 🚀 Getting Started
 
-```sh
+To run the project locally:
+
+```bash
+git clone https://github.com/azykdeveloper/vue-3-weather-app.git
+cd vue-3-weather-app
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
